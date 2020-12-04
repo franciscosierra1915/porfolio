@@ -231,6 +231,12 @@ img {
 }
 
 @media only screen and (max-width: 1000px) 
-{ #bio {max-width: 100%;}
-  #video {max-width: 100%;}
-.heading {margin: 1rem;}}
+{ #bio {
+  max-width: 100%;
+  margin-top: 1%;
+}
+  #video {
+    max-width: 100%;
+  }
+  .heading {margin: 1rem;}
+}
